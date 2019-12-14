@@ -1,2 +1,2 @@
-# VueJS, MongoDB, NodeJS Login Registration
-A simple login and register using NodeJS, MongoDB, and VueJs
+# Mooza
+A simple forum made with vuejs and nodes
